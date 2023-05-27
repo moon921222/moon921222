@@ -1,16 +1,7 @@
-### Hi there 👋
-
-<!--
-**moon921222/moon921222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+#moon921222
 - 🔭 I’m currently working on ncu
 - 🌱 I’m currently learning WP
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with final exam
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+nice to meet you
+
